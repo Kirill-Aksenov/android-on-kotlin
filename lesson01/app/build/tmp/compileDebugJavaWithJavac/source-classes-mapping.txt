@@ -1,0 +1,2 @@
+ru/geekbraines/lesson01/BuildConfig.java
+ ru.geekbraines.lesson01.BuildConfig
