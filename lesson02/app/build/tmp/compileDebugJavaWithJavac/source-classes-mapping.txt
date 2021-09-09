@@ -1,0 +1,6 @@
+com/geekbraines/lesson02/databinding/ActivityMainBinding.java
+ com.geekbraines.lesson02.databinding.ActivityMainBinding
+com/geekbraines/lesson02/databinding/FragmentMainBinding.java
+ com.geekbraines.lesson02.databinding.FragmentMainBinding
+com/geekbraines/lesson02/BuildConfig.java
+ com.geekbraines.lesson02.BuildConfig
