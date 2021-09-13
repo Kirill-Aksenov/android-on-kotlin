@@ -28,6 +28,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd9650f4-117c-4a65-973e-e234226ab2b7" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/../lesson04/.gradle/6.7.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lesson04/.gradle/6.7.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lesson04/.gradle/6.7.1/fileChanges/last-build.bin" afterDir="false" />
@@ -720,6 +721,10 @@
       <change afterPath="$PROJECT_DIR$/../lesson04/app/build/tmp/kotlin-classes/debug/ru/geekbrains/lesson04/viewmodel/AppState.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lesson04/app/build/tmp/kotlin-classes/debug/ru/geekbrains/lesson04/viewmodel/MainViewModel.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lesson04/local.properties" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> master
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -909,10 +914,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="779" y="262" key="AndroidCreateXmlResourceDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1630525202927" />
-    <state x="687" y="215" key="FileChooserDialogImpl" timestamp="1630588875023">
+    <state x="687" y="215" key="FileChooserDialogImpl" timestamp="1631195610197">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="687" y="215" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1630588875023" />
+    <state x="687" y="215" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1631195610196" />
     <state x="606" y="151" key="RollbackChangesDialog" timestamp="1630525683785">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
