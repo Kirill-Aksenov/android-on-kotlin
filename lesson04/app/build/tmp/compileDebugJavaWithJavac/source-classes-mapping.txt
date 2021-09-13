@@ -1,0 +1,10 @@
+ru/geekbrains/lesson04/databinding/FragmentMainRecyclerItemBinding.java
+ ru.geekbrains.lesson04.databinding.FragmentMainRecyclerItemBinding
+ru/geekbrains/lesson04/databinding/ActivityMainBinding.java
+ ru.geekbrains.lesson04.databinding.ActivityMainBinding
+ru/geekbrains/lesson04/BuildConfig.java
+ ru.geekbrains.lesson04.BuildConfig
+ru/geekbrains/lesson04/databinding/FragmentDetailsBinding.java
+ ru.geekbrains.lesson04.databinding.FragmentDetailsBinding
+ru/geekbrains/lesson04/databinding/FragmentMainBinding.java
+ ru.geekbrains.lesson04.databinding.FragmentMainBinding

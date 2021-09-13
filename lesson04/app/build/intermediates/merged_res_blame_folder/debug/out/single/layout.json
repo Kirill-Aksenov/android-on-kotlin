@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\unsorted\\geekbrains\\homework\\android-on-kotlin\\lesson04\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_main.xml",
+        "source": "E:\\unsorted\\geekbrains\\homework\\android-on-kotlin\\lesson04\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "E:\\unsorted\\geekbrains\\homework\\android-on-kotlin\\lesson04\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "E:\\unsorted\\geekbrains\\homework\\android-on-kotlin\\lesson04\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\unsorted\\geekbrains\\homework\\android-on-kotlin\\lesson04\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_details.xml",
+        "source": "E:\\unsorted\\geekbrains\\homework\\android-on-kotlin\\lesson04\\app\\src\\main\\res\\layout\\fragment_details.xml"
+    },
+    {
+        "merged": "E:\\unsorted\\geekbrains\\homework\\android-on-kotlin\\lesson04\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_main_recycler_item.xml",
+        "source": "E:\\unsorted\\geekbrains\\homework\\android-on-kotlin\\lesson04\\app\\src\\main\\res\\layout\\fragment_main_recycler_item.xml"
+    }
+]
