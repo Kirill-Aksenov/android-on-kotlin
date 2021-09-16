@@ -1,4 +1,4 @@
-#Wed Sep 01 21:22:33 MSK 2021
+#Thu Sep 16 11:57:52 MSK 2021
 base.2=E\:\\unsorted\\geekbrains\\homework\\android-on-kotlin\\lesson01\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
 path.2=7/classes.dex
 base.1=E\:\\unsorted\\geekbrains\\homework\\android-on-kotlin\\lesson01\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
