@@ -4,7 +4,7 @@
     "type": "MERGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.geekbraines.lesson02",
+  "applicationId": "ru.geekbrains.lesson02",
   "variantName": "debug",
   "elements": [
     {
